@@ -4,6 +4,8 @@
 \begin_header
 \textclass memoir
 \begin_preamble
+\setcounter{chapter}{1}
+
 \usepackage{fmtcount}
 \usepackage{graphicx}
 
@@ -556,6 +558,8 @@ mainmatter
 \begin_layout Standard
 \align center
 
+\family sans
+\series bold
 \size larger
 Harry Potter and the Methods of Rationality
 \end_layout
@@ -1086,7 +1090,7 @@ backmatter
 \align center
 
 \size large
-Notes and Contents
+Contents
 \end_layout
 
 \begin_layout Standard

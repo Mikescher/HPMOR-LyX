@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \begin_preamble
-\setcounter{chapter}{37}
+\setcounter{chapter}{38}
 
 \usepackage{fmtcount}
 \usepackage{graphicx}
@@ -43,6 +43,7 @@
 \usepackage{shapepar} %paragrafi con una certa forma
 \usepackage{url}%url lunga
 \renewcommand*{\parttitlefont}{\normalfont\HUGE\sffamily}
+\usepackage{microtype}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -72,7 +73,7 @@ initials
 \bibtex_command default
 \index_command default
 \float_placement bp
-\paperfontsize 12
+\paperfontsize 10
 \spacing single
 \use_hyperref false
 \papersize custom
@@ -102,10 +103,11 @@ initials
 \end_index
 \paperwidth 16cm
 \paperheight 23cm
-\leftmargin 2.1cm
-\topmargin 1.8cm
-\rightmargin 1.8cm
-\bottommargin 2.1cm
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
 \secnumdepth 3
 \tocdepth 0
 \paragraph_separation indent
@@ -132,6 +134,13 @@ status open
 
 \backslash
 pagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+frontmatter
 \end_layout
 
 \end_inset
@@ -241,7 +250,7 @@ HUGE
 \backslash
 sffamily 
 \backslash
-textbf {Harry Potter}}
+textsc {Harry Potter}}
 \backslash
 
 \backslash
@@ -275,7 +284,7 @@ HUGE
 \backslash
 sffamily 
 \backslash
-textbf {METHODS of RATIONALITY}}
+textsc {methods of rationality}}
 \backslash
 
 \backslash
@@ -386,8 +395,9 @@ Harry Potter and the Methods of Rationality
 \emph default
  © E.
  Yukowsky.
- Text downloaded from http://hpmor.com on March 16, 2013; check the site
- for updates and new chapters.
+ Text downloaded from http://hpmor.com; check the site for updates and new
+ chapters.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -433,6 +443,13 @@ status open
 pagestyle{empty}
 \end_layout
 
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter
+\end_layout
+
 \end_inset
 
 
@@ -469,7 +486,7 @@ status open
 
 
 \backslash
-pagestyle{myheadings}
+pagestyle{empty}
 \end_layout
 
 \end_inset
@@ -483,11 +500,18 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 cleardoublepage  % 
 \backslash
 phantomsection if hyperref is used
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
 \end_layout
 
 \begin_layout Plain Layout
@@ -499,9 +523,30 @@ addcontentsline{toc}{part}{Arc Set Three}
 
 \begin_layout Plain Layout
 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Arc Set Three
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
 
 \backslash
-part*{Arc Set Three}
+pagestyle{myheadings}
 \end_layout
 
 \end_inset
@@ -925,6 +970,13 @@ status open
 pagestyle{empty}
 \end_layout
 
+\begin_layout Plain Layout
+
+
+\backslash
+backmatter
+\end_layout
+
 \end_inset
 
 
@@ -932,7 +984,9 @@ pagestyle{empty}
 
 \begin_layout Standard
 \align center
-Notes and Contents
+
+\size large
+Contents
 \end_layout
 
 \begin_layout Standard
@@ -957,7 +1011,7 @@ status open
 
 
 \backslash
-pagestyle{simple}
+pagestyle{myheadings}
 \end_layout
 
 \end_inset
@@ -1040,13 +1094,7 @@ textit{Harry Potter and the Methods of Rationality, Volume II}.
 ing and motivating (this is my contribution to the diffusion of rationality,
  I don't want Hermione to be sad!); to the community of 
 \backslash
-LaTeX and LyX, without whom this work would have been impossible; to Abigai
-\backslash
--Larson of deviantart, from whom I 
-\backslash
-textquotedblleft{}borrowed
-\backslash
-textquotedblright{} the image for the cover.
+LaTeX and LyX, without whom this work would have been impossible.
  Last but not least, a heartfelt thank you to Eliezer Yudkowsky for the
  wonderful world of HPMOR, that provided me with several hours of entertainment
  and food for thought in equal parts.}
