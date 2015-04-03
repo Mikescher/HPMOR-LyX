@@ -73,7 +73,7 @@ initials
 \bibtex_command default
 \index_command default
 \float_placement bp
-\paperfontsize 10
+\paperfontsize 12
 \spacing single
 \use_hyperref false
 \papersize custom
@@ -103,11 +103,10 @@ initials
 \end_index
 \paperwidth 16cm
 \paperheight 23cm
-\leftmargin 1.2in
-\topmargin 0.85in
-\rightmargin 1.2in
-\bottommargin 1.2in
-\headsep 0.15in
+\leftmargin 2.1cm
+\topmargin 1.8cm
+\rightmargin 1.8cm
+\bottommargin 2.1cm
 \secnumdepth 3
 \tocdepth 0
 \paragraph_separation indent
@@ -333,6 +332,19 @@ baselineskip]
 {
 \backslash
 textit{Illustrations by} Dinosaurusgede}
+\backslash
+
+\backslash
+[0.2
+\backslash
+baselineskip]
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\backslash
+textit{LyX files by} Mike Schwörer}
 \backslash
 
 \backslash
