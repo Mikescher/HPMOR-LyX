@@ -1,19 +1,21 @@
 HPMOR-LyX
 =========
 
-Harry Potter and the Methods of Rationality LyX files
+[Harry Potter and the Methods of Rationality](http://hpmor.com/) LyX files
 
 ----------
 
 
-Cleaner version than the one by IlCensore:
+"Cleaner" version than the one by IlCensore: *(but still - big thanks to him, for creating all the lyx files for all the chapters)*
  - Removed Images
  - Split into three books (1+2 | 3+4 | 5+6)
+ - Same style across all three volumes
+ - Removed compiler errors (at least on my machine)
  - etc etc
 
-*you will need [Crimson](https://www.google.com/fonts/specimen/Crimson+Text) and [Biolinum](http://sourceforge.net/projects/linuxlibertine/?source=typ_redirect) font*
+*you will need the [Crimson](https://www.google.com/fonts/specimen/Crimson+Text) and [Biolinum](http://sourceforge.net/projects/linuxlibertine/?source=typ_redirect) font - and [LyX](http://www.lyx.org/)*
 
-###Calculations (official PDFs)
+###Calculations ([official](http://hpmor.com/) PDFs)
 ~~~
 Book 1: HJPEV and the Methods of Rationality   :: 351 p
 Book 2: HJPEV and the Professor's Games        :: 287 p
@@ -31,11 +33,11 @@ SUM   : 1978 p
 
 ###Calculations (my LyX files)
 ~~~
-VOL 1 : Ch 001 - 021 + 022 - 037     -> 597p  ( 32€ )
-VOL 2 : Ch 038 - 064 + 065 - 085     -> 719p  ( 45€ )
-VOL 3 : Ch 086 - 099 + 100 - 122     -> 493p  ( 38€ )
+VOL 1 : Ch 001-021 + 022-037     -> 597p  ( epubli: 32â‚¬ )
+VOL 2 : Ch 038-064 + 065-085     -> 719p  ( epubli: 45â‚¬ )
+VOL 3 : Ch 086-099 + 100-122     -> 493p  ( epubli: 38â‚¬ )
 ________________
-1809p  ( 115 € )
+1809p  ( 115 â‚¬ )
 ~~~
 
 ###Chapters
