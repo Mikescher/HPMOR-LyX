@@ -13,22 +13,29 @@ Cleaner version than the one by IlCensore:
 
 *you will need [Crimson](https://www.google.com/fonts/specimen/Crimson+Text) and [Biolinum](http://sourceforge.net/projects/linuxlibertine/?source=typ_redirect) font*
 
-###Calculations
+###Calculations (official PDFs)
 ~~~
 Book 1: HJPEV and the Methods of Rationality   :: 351 p
 Book 2: HJPEV and the Professor's Games        :: 287 p
 Book 3: HJPEV and the Shadows of Death         :: 397 p
-Book 4: HJG and the Phoenix's Call             :: 393 p
+Book 4: HJG   and the Phoenix's Call           :: 393 p
 Book 5: HJPEV and the Last Enemy               :: 231 p
 Book 6: HJPEV and the Philosopher's Stone      :: 319 p
 
-_____________
+VOL 1 : 638
+VOL 2 : 790
+VOL 3 : 550
+________________
 SUM   : 1978 p
+~~~
 
-VOL 1 : 638  Ch 001 - 021 + 022 - 037
-VOL 2 : 790  Ch 038 - 064 + 065 - 085
-VOL 3 : 550  Ch 086 - 099 + 100 - 122
-
+###Calculations (my LyX files)
+~~~
+VOL 1 : Ch 001 - 021 + 022 - 037     -> 597p  ( 32€ )
+VOL 2 : Ch 038 - 064 + 065 - 085     -> 719p  ( 45€ )
+VOL 3 : Ch 086 - 099 + 100 - 122     -> 493p  ( 38€ )
+________________
+1809p  ( 115 € )
 ~~~
 
 ###Chapters
