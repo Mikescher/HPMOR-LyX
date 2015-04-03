@@ -11,6 +11,7 @@ Cleaner version than the one by IlCensore:
  - Split into three books (1+2 | 3+4 | 5+6)
  - etc etc
 
+*you will need [Crimson](https://www.google.com/fonts/specimen/Crimson+Text) and [Biolinum](http://sourceforge.net/projects/linuxlibertine/?source=typ_redirect) font*
 
 ###Calculations
 ~~~
