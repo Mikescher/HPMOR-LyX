@@ -344,7 +344,20 @@ baselineskip]
 
 {
 \backslash
-textit{LyX files by} Mike Schwörer}
+textit{LyX files by} IlCensore}
+\backslash
+
+\backslash
+[0.2
+\backslash
+baselineskip]
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\backslash
+textit{Forked and improved by} Mikescher}
 \backslash
 
 \backslash
