@@ -15,7 +15,7 @@ HPMOR-LyX
 
 *you will need the [Crimson](https://www.google.com/fonts/specimen/Crimson+Text) and [Biolinum](http://sourceforge.net/projects/linuxlibertine/?source=typ_redirect) font - and [LyX](http://www.lyx.org/)*
 
-###Calculations ([official](http://hpmor.com/) PDFs)
+### Calculations ([official](http://hpmor.com/) PDFs)
 ~~~
 Book 1: HJPEV and the Methods of Rationality   :: 351 p
 Book 2: HJPEV and the Professor's Games        :: 287 p
@@ -31,7 +31,7 @@ ________________
 SUM   : 1978 p
 ~~~
 
-###Calculations (my LyX files)
+### Calculations (my LyX files)
 ~~~
 VOL 1 : Ch 001-021 + 022-037     -> 597p  ( epubli: 32€ )
 VOL 2 : Ch 038-064 + 065-085     -> 719p  ( epubli: 45€ )
@@ -40,7 +40,7 @@ ________________
 1809p  ( 115 € )
 ~~~
 
-###Chapters
+### Chapters
 ~~~
 
 1. A Day of Very Low Probability
